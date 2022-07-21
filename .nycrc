@@ -1,0 +1,8 @@
+{
+  "exclude": [
+    "daos/**/*.spec.js",
+    "models/**/*.spec.js",
+    "unit-tests/**/*.spec.js"
+  ],
+  "reporter": "html"
+}
